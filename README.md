@@ -35,6 +35,7 @@ The pipeline is trained on simulated noisy data and tested on real experimental 
 -   Denoised images (PNG)
 -   Model checkpoint (best.pth)
 -   Clustering results
+![Denoising Result](Picture1.jpg)
 
 ## 🛠️ Tech Stack
 
